@@ -21,6 +21,8 @@
   <ItemGroup>
     <ClCompile Include="tcp_client.c" />
     <ClCompile Include="tcp_server.c" />
+    <ClCompile Include="udp_client.c" />
+    <ClCompile Include="udp_server.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
