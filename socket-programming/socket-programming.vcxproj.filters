@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\tcp_client.c">
+    <ClCompile Include="tcp_client.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\tcp_server.c">
+    <ClCompile Include="tcp_server.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
